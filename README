@@ -10,7 +10,7 @@ E.g. of usage:
 
 \begin{figure}[ht!]
     \centering
-    \hbox{\hspace{5em}\input{background/HTM/tikz/HTMNeuron.tex}}
+    \hbox{\hspace{5em}\input{PATH_TO_HTMNeuron}}
     \caption{Caption}
     \label{fig:HTMNeuron}
 \end{figure}
