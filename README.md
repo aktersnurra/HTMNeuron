@@ -17,4 +17,4 @@ E.g. of usage:
 
 ## Ouput 
 
-![Image description](htm_neuron.pdf)
+![Image description](https://github.com/aktersnurra/HTMNeuron/blob/master/htm_neuron.pdf)
