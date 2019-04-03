@@ -19,4 +19,4 @@ E.g. of usage:
 
 ## Ouput 
 
-![Image description](https://github.com/aktersnurra/HTMNeuron/blob/master/htm_neuron.png)
+![Image description](https://github.com/aktersnurra/HTMNeuron/blob/master/htm_neuron.pdf)
