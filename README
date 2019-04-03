@@ -14,3 +14,7 @@ E.g. of usage:
     \caption{Caption}
     \label{fig:HTMNeuron}
 \end{figure}
+
+## Ouput 
+
+![Image description](htm_neuron.pdf)
